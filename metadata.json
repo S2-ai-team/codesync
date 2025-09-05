@@ -1,0 +1,5 @@
+{
+  "name": "CodeSync",
+  "description": "A professional tool for developers and learners to visualize Python code execution step-by-step. Features an interactive terminal for input/output and detailed state tracking, all running securely and offline in your browser.",
+  "requestFramePermissions": []
+}
