@@ -1,0 +1,2 @@
+# Nmap 7.95 scan initiated Fri Oct 24 14:53:07 2025 as: /usr/lib/nmap/nmap -sV -p 80,443,8080,8000,3000,5000,8443,8888 --open -iL hosts.txt -T4 -oG web_open_ports.gnmap
+# Nmap done at Fri Oct 24 14:53:09 2025 -- 2 IP addresses (2 hosts up) scanned in 1.61 seconds
