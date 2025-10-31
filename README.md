@@ -1,1 +1,1 @@
-# codesync code editor
+# codesync code editor project
